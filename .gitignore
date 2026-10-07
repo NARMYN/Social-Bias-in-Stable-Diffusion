@@ -218,3 +218,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Generated outputs — these live in the Kaggle Dataset, not in Git
+images/
+images_lora/
+attn/
+results/
+figures/*.png
+!figures/*.png
+.ipynb_checkpoints/
