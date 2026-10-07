@@ -1,0 +1,16 @@
+torch>=2.4
+torchvision
+diffusers==0.36.0
+transformers>=4.46.0,<5
+accelerate
+peft
+codecarbon
+facenet-pytorch
+umap-learn
+scipy
+seaborn
+scikit-learn
+pandas
+numpy
+matplotlib
+Pillow
